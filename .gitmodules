@@ -16,3 +16,6 @@
 [submodule "cs3510"]
 	path = cs3510
 	url = git@github.com:ATPAustinPeng/cs3510.git
+[submodule "cs3600"]
+	path = cs3600
+	url = git@github.com:ATPAustinPeng/cs3600.git
