@@ -1,0 +1,3 @@
+[submodule "cs2110"]
+	path = cs2110
+	url = git@github.com:ATPAustinPeng/cs2110.git
