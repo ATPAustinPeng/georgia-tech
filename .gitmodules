@@ -4,3 +4,6 @@
 [submodule "cs4641"]
 	path = cs4641
 	url = git@github.com:ATPAustinPeng/cs4641.git
+[submodule "math3012"]
+	path = math3012
+	url = git@github.com:ATPAustinPeng/math3012.git
