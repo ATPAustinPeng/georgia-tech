@@ -13,3 +13,6 @@
 [submodule "cs2200"]
 	path = cs2200
 	url = git@github.com:ATPAustinPeng/cs2200.git
+[submodule "cs3510"]
+	path = cs3510
+	url = git@github.com:ATPAustinPeng/cs3510.git
