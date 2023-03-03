@@ -19,3 +19,6 @@
 [submodule "cs3600"]
 	path = cs3600
 	url = git@github.com:ATPAustinPeng/cs3600.git
+[submodule "ece2031"]
+	path = ece2031
+	url = git@github.com:ATPAustinPeng/ece2031.git
