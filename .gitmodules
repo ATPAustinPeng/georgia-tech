@@ -22,3 +22,6 @@
 [submodule "ece2031"]
 	path = ece2031
 	url = git@github.com:ATPAustinPeng/ece2031.git
+[submodule "cs3630"]
+	path = cs3630
+	url = git@github.com:ATPAustinPeng/cs3630.git
