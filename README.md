@@ -19,14 +19,11 @@
 | CS 4510   | Automata And Complexity                 | Fall 2022   | Zvi Galil               |
 | CS 6515   | Intro to Graduate Algorithms            | Fall 2022   | Gerandy Brito           |
 |           |                                         |             |                         |
-|           |                                         |             |                         |
-
-## Projects
-- cs 4641 repo
-- cs 2340 repo
-- ece2031-neopixels
+| CS 3251   | Computer Networking I                   | Spring 2023 | Jun Xu                  |
+| CS 7643   | Deep Learning                           | Spring 2023 | Zsolt Kira              |
+| CSE 6242  | Data and Visual Analytics               | Spring 2023 | Duen Horng (Polo) Chau  |
 
 delete/handle
 - fall-2021/vip2601
 - spring-2022/chin4004
-- handle courses before i started using github
+- courses before I started using github
