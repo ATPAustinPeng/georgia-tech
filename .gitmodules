@@ -31,3 +31,6 @@
 [submodule "cs6515"]
 	path = cs6515
 	url = git@github.com:ATPAustinPeng/cs6515.git
+[submodule "cs3251"]
+	path = cs3251
+	url = git@github.com:ATPAustinPeng/cs3251.git
