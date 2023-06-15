@@ -37,3 +37,6 @@
 [submodule "cs7643"]
 	path = cs7643
 	url = git@github.com:ATPAustinPeng/cs7643.git
+[submodule "cse6242"]
+	path = cse6242
+	url = git@github.com:ATPAustinPeng/cse6242.git
